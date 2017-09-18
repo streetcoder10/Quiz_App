@@ -144,7 +144,7 @@
                     answer: "img/celtic.jpg"
                 },
                 {
-                    answer: "img/mill.jpg'"
+                    answer: "img/mill.jpg"
                 },
                 {
                     answer: "img/siro.jpg"

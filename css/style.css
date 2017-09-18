@@ -46,7 +46,7 @@ body {
     border: 5px solid green;
 }
 .image-answer.bg-danger{
-    border: 5px solid blue;
+    border: 5px solid #C63D0F;
 }
 
 .form {
